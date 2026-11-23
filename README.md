@@ -98,7 +98,7 @@ teslim-adeyanju-retail-pulse-note.ipynb
 teslim_adeyanju_retail_pulse_updated.ipynb
 ... additional notebook copies
 docs/
-    legacy-readme.md
+    legacy_readme.md
 ```
 
 ## Setup and Reproducibility
@@ -146,4 +146,4 @@ The current classifier describes historical customer status using the available 
 **Teslim Adeyanju**  
 [GitHub](https://github.com/TeslimAdeyanju) | [Portfolio](https://adeyanjuteslim.co.uk) | [LinkedIn](https://www.linkedin.com/in/adeyanjuteslimuthman)
 
-[Original README archive](docs/legacy-readme.md)
+[Original README archive](docs/legacy_readme.md)
